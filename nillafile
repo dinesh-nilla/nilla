@@ -1,0 +1,11 @@
+git config --global user.name "dinesh"
+git config --global user.email "dineshu2706@gmail.com"
+
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+
+f791f3a4dab14079a2b411cc9d81eb29
+
+http://51.21.202.167:8080
